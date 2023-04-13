@@ -1,5 +1,5 @@
 
-# Desafio 1 Shell Bootcamp AWS DIO
+# Desafio 2 Shell Bootcamp AWS DIO
 
 Confira os requisitos abaixo:
 
